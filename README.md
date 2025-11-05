@@ -1,2 +1,25 @@
-# chaOS-DB
-Database component for the chaOS application ecosystem.
+# chaos-db
+
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/stranger13jam/chaos-db/blob/init/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/stranger13jam/chaos-db/blob/init/README.en.md)
+
+Основной репозиторий: https://github.com/stranger13jam/chaos
+
+## Описание
+
+**chaos-db** - компонент базы данных для экосистемы приложений **chaOS**.
+
+База данных является одним из основных компонентов и предназначена для хранения данных всех приложений, входящих в экосистему приложений **chaOS**.
+
+Модель данных и всё взаимодействие с базой данных определяется с помощью Python ORM. Более подробное описание используемых сущностей и полей приведено в описании компонента [**chaos-api**](https://github.com/stranger13jam/chaos-api).
+
+## Назначение
+
+Данный репозиторий содержит `Dockerfile` с конфигурацией базы данных, который может быть использован для развёртывания базы данных совместно с другими приложениями экосистемы **chaOS**, используя Docker Compose. Подробнее в [основном репозитории](https://github.com/stranger13jam/chaos).
+
+> [!NOTE]
+> Вы также можете использовать любую другую базу данных и любой другой способ развёртывания, которые вы предпочитаете.
+
+## Дополнительно
+
+Дополнительно репозиторий содержит `Makefile`, в котором содержится набор команд для локального развёртывания, тестирования и прочего.
