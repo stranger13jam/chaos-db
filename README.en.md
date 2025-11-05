@@ -5,7 +5,7 @@
 
 Main repository: https://github.com/stranger13jam/chaos
 
-## Описание
+## Description
 
 **chaos-db** is a database component for the **chaOS** application ecosystem.
 
@@ -13,7 +13,7 @@ The database is one of the core components and is designed to store data for all
 
 The data model and all interactions with the database are defined using a Python ORM. A more detailed description of the entities and fields used is provided in the [**chaos-api**](https://github.com/stranger13jam/chaos-api) component description.
 
-## Назначение
+## Purpose
 
 This repository contains a `Dockerfile` with the database configuration, which can be used to deploy the database alongside other applications in the **chaOS** ecosystem using Docker Compose. Learn more in the [main repository](https://github.com/stranger13jam/chaos).
 
