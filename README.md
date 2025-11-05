@@ -1,7 +1,7 @@
 # chaos-db
 
-[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/stranger13jam/chaos-db/blob/init/README.md)
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/stranger13jam/chaos-db/blob/init/README.en.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/stranger13jam/chaos-db/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/stranger13jam/chaos-db/blob/master/README.en.md)
 
 Основной репозиторий: https://github.com/stranger13jam/chaos
 
